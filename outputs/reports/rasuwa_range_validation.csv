@@ -1,0 +1,11 @@
+Variable,Minimum_Value,Maximum_Value,Below_Limit,Above_Limit,Invalid_Numeric,Screening_Limits
+T2M,0.69,24.69,0,0,0,-90 to 60
+T2M_MAX,3.35,31.0,0,0,0,-90 to 65
+T2M_MIN,-6.16,19.38,0,0,0,-100 to 60
+PRECTOTCORR,0.0,103.35,0,0,0,0 to 1000
+RH2M,6.8,98.24,0,0,0,0 to 100
+QV2M,0.86,18.53,0,0,0,0 to 100
+PW,0.04,2.46,0,0,0,0 to 150
+ALLSKY_SFC_SW_DWN,1.72,30.92,0,0,0,0 to 50
+WS2M,0.5,3.89,0,0,0,0 to 100
+PS,80.03,81.86,0,0,0,0 to 1100

@@ -1,0 +1,16 @@
+
+pandas
+numpy
+xarray
+netCDF4
+requests
+scipy
+statsmodels
+pymannkendall
+scikit-learn
+matplotlib
+seaborn
+plotly
+streamlit
+jupyter
+ipykernel
