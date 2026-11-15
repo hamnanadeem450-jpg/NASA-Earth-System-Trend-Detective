@@ -14,5 +14,4 @@ plotly
 streamlit
 jupyter
 ipykernel
-streamlit
 prophet
